@@ -1,0 +1,19 @@
+.divs {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#numo {
+    color: blue;
+    font-size: 36px;
+}
+
+#numt {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.adjust {
+    font-size: 24px;
+}
